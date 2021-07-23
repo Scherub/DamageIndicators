@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamageMotes", "DamageMotes\DamageMotes.csproj", "{F628BD62-312C-434B-8663-2EECB39120B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamageMotes_1_3", "DamageMotes\DamageMotes_1_3.csproj", "{F628BD62-312C-434B-8663-2EECB39120B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F643760-5580-483D-B68D-4D5DC0EE7747}
 	EndGlobalSection
 EndGlobal
